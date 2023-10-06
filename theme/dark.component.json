@@ -1,0 +1,23 @@
+{
+  "Card": {
+    "headerBg": "#FDFDFD1F"
+  },
+  "Slider": {
+    "railHoverBg": "#303030"
+  },
+  "Button": {
+    "primaryShadow": "none"
+  },
+  "Collapse": {
+    "headerBg": "#FDFDFD1F"
+  },
+  "Segmented": {
+    "itemSelectedBg": "#0078c0",
+    "itemHoverBg": "#FFFFFF40"
+  },
+  "Tabs": {
+    "inkBarColor": "#04a7e0",
+    "itemSelectedColor": "#04a7e0",
+    "itemHoverColor": "#04a7e0"
+  }
+}

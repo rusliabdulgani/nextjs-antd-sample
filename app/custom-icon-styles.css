@@ -1,0 +1,10 @@
+/* custom-icon-styles.css */
+.custom-icon {
+  color: #575757 !important;
+  /* Adjust color as needed */
+}
+
+.custom-icon.dark {
+  color: #ffffff !important;
+  /* Adjust color for dark mode */
+}

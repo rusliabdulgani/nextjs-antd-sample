@@ -1,0 +1,8 @@
+.switch__block {
+  display: flex;
+  height: 20px;
+  flex-direction: row;
+  padding-top: 1rem;
+  padding-right: 1rem;
+  justify-content: flex-end;
+}

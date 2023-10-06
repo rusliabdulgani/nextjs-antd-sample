@@ -1,0 +1,28 @@
+{
+  "fontFamily": "Arial",
+  "colorPrimary": "#004991",
+  "colorError": "#ff4d4f",
+  "colorWarning": "#faad14",
+  "colorSuccess": "#52c41a",
+  "colorInfo": "#1677ff",
+  "colorTextDescription": "#000",
+  "colorTextLabel": "#000",
+  "colorSplit": "#c2c2c2",
+  "colorBgElevated": "#fff",
+  "components": {
+    "Card": {
+      "headerBg": "#aeaeae"
+    }
+  },
+  "fontSizeSM": 12,
+  "fontSizeLG": 16,
+  "fontSizeXL": 20,
+  "fontSizeIcon": 12,
+  "fontSizeHeading1": 38,
+  "fontSizeHeading2": 30,
+  "fontSizeHeading3": 24,
+  "fontSizeHeading4": 20,
+  "fontSizeHeading5": 16,
+  "fontWeightNormal": 400,
+  "fontWeightStrong": 600
+}
