@@ -18,7 +18,7 @@
   "colorBgSpotlight": "#0078c0",
   "controlItemBgHover": "#FFFFFF40",
   "colorBgContainer": "#000000FF",
-  "controlItemBgActive": "#04a7e0",
+  "controlItemBgActive": "#0078c0",
   "primaryShadow": "1px 1px 0 rgba(5, 145, 255, 0.9)",
   "fontSizeSM": 12,
   "fontSizeLG": 16,
